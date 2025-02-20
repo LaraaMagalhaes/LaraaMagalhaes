@@ -20,10 +20,6 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante apaixonada por desenvolvimento 
 - **DevOps:** Docker, GitHub Actions
 - **Outros:** Git, Jest, Mocha
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub da LaraaMagalhaes](https://github-readme-stats.vercel.app/api?username=LaraaMagalhaes&show_icons=true&theme=radical)
-
 ## 📫 Conecte-se Comigo
 
 - LinkedIn: [Lara Magalhaes](https://www.linkedin.com/in/laraamagalhaes)
