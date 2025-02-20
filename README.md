@@ -1,4 +1,4 @@
-# Olá, eu sou Laraa Magalhaes! 👋
+# Olá, eu sou Lara Magalhaes! 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou estudante apaixonada por desenvolvimento de software e sempre em busca de aprender e explorar novas tecnologias. Confira um pouco sobre mim:
 
