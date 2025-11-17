@@ -1,27 +1,26 @@
-# Olá, eu sou Lara Magalhaes! 👋
+# Hello, I'm Lara Magalhaes! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante apaixonada por desenvolvimento de software e sempre em busca de aprender e explorar novas tecnologias. Confira um pouco sobre mim:
+Welcome to my GitHub profile! I'm a student passionate about software development and always looking to learn and explore new technologies. Check out a bit about me:
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-- 🌱 Atualmente, estou cursando Ciências da Computação e aprendo algo novo a cada dia.
-- 💼 Tenho interesse em colaborar em projetos inovadores e desafiadores.
-- 🎓 Possuo experiência em alguns projetos, inclusive um em Kotlin.
-- 💬 Adoro conversar sobre JavaScript, React, Node.js e tudo que envolva tecnologia!
-- 📫 Entre em contato: [annalarammv123@gmail.com](mailto:annalarammv123@gmail.com)
-- ⚡ Curiosidade: Eu amo assistir filmes e animes.
+- 🌱 Currently, I'm studying Computer Science and learning something new every day.
+- 💼 I'm interested in collaborating on innovative and challenging projects.
+- 🎓 I have experience with several projects, including one in Kotlin.
+- 💬 I love talking about JavaScript, React, Node.js, and everything tech!
+- 📫 Reach me at: [annalarammv123@gmail.com](mailto:annalarammv123@gmail.com)
+- ⚡ Fun fact: I love watching movies and anime.
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
-- **Linguagens:** JavaScript, Python, Kotlin, Java, C++
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express
-- **Bancos de Dados:** MongoDB, MySQL
-- **DevOps:** Docker, GitHub Actions
-- **Outros:** Git, Jest, Mocha
+- **Languages:** JavaScript, Python, Kotlin, Java
+- **Frontend:** React, HTML5, CSS3
+- **Backend & Database:** Node.js, Express.js, MongoDB, MySQL
+- **Tools & DevOps:** Docker, GitHub Actions, Git, Postman
+- **Concepts:** REST API, OOP, Algorithms
 
-## 📫 Conecte-se Comigo
+## 📫 Connect with Me
 
 - LinkedIn: [Lara Magalhaes](https://www.linkedin.com/in/laraamagalhaes)
 
-Obrigado por visitar meu perfil! Tenha um ótimo dia! 😊
+Thanks for visiting my profile! Have a great day! 😊
