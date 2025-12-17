@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a student passionate about software developmen
 
 - 🌱 Currently, I'm studying Computer Science and learning something new every day.
 - 💼 I'm interested in collaborating on innovative and challenging projects.
-- 🎓 I have experience with several projects, including one in Kotlin.
+- 🎓 I have experience with several projects, including one in JS.
 - 💬 I love talking about JavaScript, React, Node.js, and everything tech!
 - 📫 Reach me at: [annalarammv123@gmail.com](mailto:annalarammv123@gmail.com)
 - ⚡ Fun fact: I love watching movies and anime.
